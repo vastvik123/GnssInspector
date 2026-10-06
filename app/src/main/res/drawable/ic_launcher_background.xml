@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated: magnifier whose lens is a sky plot with three glowing satellites. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108.00" android:viewportHeight="108.00">
+  <path android:pathData="M0,0h108v108h-108z"><aapt:attr name="android:fillColor"><gradient android:type="linear" android:startX="0" android:startY="0" android:endX="0" android:endY="108" android:startColor="#FF050A18" android:endColor="#FF0C1934"/></aapt:attr></path>
+  <path android:pathData="M23.40,30.00a0.60,0.60 0 1,0 1.20,0a0.60,0.60 0 1,0 -1.20,0z" android:fillColor="#7FFFFFFF"/><path android:pathData="M83.20,24.00a0.80,0.80 0 1,0 1.60,0a0.80,0.80 0 1,0 -1.60,0z" android:fillColor="#99FFFFFF"/><path android:pathData="M87.50,58.00a0.50,0.50 0 1,0 1.00,0a0.50,0.50 0 1,0 -1.00,0z" android:fillColor="#66FFFFFF"/><path android:pathData="M25.30,82.00a0.70,0.70 0 1,0 1.40,0a0.70,0.70 0 1,0 -1.40,0z" android:fillColor="#72FFFFFF"/><path android:pathData="M65.50,90.00a0.50,0.50 0 1,0 1.00,0a0.50,0.50 0 1,0 -1.00,0z" android:fillColor="#59FFFFFF"/><path android:pathData="M39.50,18.00a0.50,0.50 0 1,0 1.00,0a0.50,0.50 0 1,0 -1.00,0z" android:fillColor="#4CFFFFFF"/>
+</vector>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated. Themed-icon (monochrome) layer. Same mark as logo_mark.xml, bounding box centred on the canvas. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+  <group android:pivotX="49.99" android:pivotY="49.99" android:scaleX="0.936" android:scaleY="0.936"
+      android:translateX="4.01" android:translateY="4.01">
+    <path android:pathData="M36.26,39.06a4.12,4.12 0 1,0 8.25,0a4.12,4.12 0 1,0 -8.25,0z" android:fillColor="#FFFFFFFF"/>
+    <path android:pathData="M57.49,44.23a3.58,3.58 0 1,0 7.15,0a3.58,3.58 0 1,0 -7.15,0z" android:fillColor="#FFFFFFFF"/>
+    <path android:pathData="M41.98,61.06a3.58,3.58 0 1,0 7.15,0a3.58,3.58 0 1,0 -7.15,0z" android:fillColor="#FFFFFFFF"/>
+    <path android:pathData="M27.40,49.40a22.00,22.00 0 1,0 44.00,0a22.00,22.00 0 1,0 -44.00,0z" android:strokeColor="#FFFFFFFF" android:strokeWidth="5.2"/>
+    <path android:pathData="M66.02,66.02L71.68,71.68" android:strokeColor="#FFFFFFFF" android:strokeWidth="7" android:strokeLineCap="round"/>
+  </group>
+</vector>

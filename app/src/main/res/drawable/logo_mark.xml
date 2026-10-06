@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated: magnifier whose lens is a sky plot with three glowing satellites. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="48dp" android:height="48dp"
+    android:viewportWidth="51.77" android:viewportHeight="51.77">
+  <group android:translateX="-24.40" android:translateY="-24.40">
+    <path android:pathData="M27.40,49.40a22.00,22.00 0 1,0 44.00,0a22.00,22.00 0 1,0 -44.00,0z"><aapt:attr name="android:fillColor"><gradient android:type="radial" android:centerX="49.40" android:centerY="49.40" android:gradientRadius="22.00" android:startColor="#28CFE0FF" android:endColor="#00CFE0FF"/></aapt:attr></path>
+    <path android:pathData="M32.46,39.06a7.92,7.92 0 1,0 15.84,0a7.92,7.92 0 1,0 -15.84,0z"><aapt:attr name="android:fillColor"><gradient android:type="radial" android:centerX="40.38" android:centerY="39.06" android:gradientRadius="7.92" android:startColor="#B23987E5" android:endColor="#003987E5"/></aapt:attr></path>
+    <path android:pathData="M36.26,39.06a4.12,4.12 0 1,0 8.25,0a4.12,4.12 0 1,0 -8.25,0z" android:fillColor="#FF3987E5"/>
+    <path android:pathData="M54.20,44.23a6.86,6.86 0 1,0 13.73,0a6.86,6.86 0 1,0 -13.73,0z"><aapt:attr name="android:fillColor"><gradient android:type="radial" android:centerX="61.06" android:centerY="44.23" android:gradientRadius="6.86" android:startColor="#B2D95926" android:endColor="#00D95926"/></aapt:attr></path>
+    <path android:pathData="M57.49,44.23a3.58,3.58 0 1,0 7.15,0a3.58,3.58 0 1,0 -7.15,0z" android:fillColor="#FFD95926"/>
+    <path android:pathData="M38.69,61.06a6.86,6.86 0 1,0 13.73,0a6.86,6.86 0 1,0 -13.73,0z"><aapt:attr name="android:fillColor"><gradient android:type="radial" android:centerX="45.55" android:centerY="61.06" android:gradientRadius="6.86" android:startColor="#B2199E70" android:endColor="#00199E70"/></aapt:attr></path>
+    <path android:pathData="M41.98,61.06a3.58,3.58 0 1,0 7.15,0a3.58,3.58 0 1,0 -7.15,0z" android:fillColor="#FF199E70"/>
+    <path android:pathData="M27.40,49.40a22.00,22.00 0 1,0 44.00,0a22.00,22.00 0 1,0 -44.00,0z" android:strokeColor="#FFCFE0FF" android:strokeWidth="5.2"/>
+    <path android:pathData="M66.02,66.02L71.68,71.68" android:strokeColor="#FFCFE0FF" android:strokeWidth="7" android:strokeLineCap="round"/>
+  </group>
+</vector>
